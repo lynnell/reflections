@@ -1,0 +1,18 @@
+Viewing the diff bet two versions of the files helps see bugs introduced because it shows the exact lines that were changed (added, removed, updated).
+ 
+By having a file history, it enables a programmer to quickly revert to previously working versions of a program. 
+
+git log --stat
+git diff <commit # current> <commit # previous>
+
+HEAD is what Git calls the commit you are currently on. You can "detach" the head by switching to an earlier commit. 
+
+Octopus - a strategy Git uses to combine many different versions of code together.
+
+git checkout <commit #>
+
+Version Control can enable you to explore / take risks. 
+
+
+
+ 

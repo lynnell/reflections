@@ -1,0 +1,8 @@
+
+git init
+When you initialize the repository, Git doesn't create any commits for you. You have to create the first commit yourself. 
+
+Why would you NOT want Git to do the first commit automatically?  Two reasons - 1. you may not want to commit everything in the respository
+ 2. you wouldn't be able to put your own comments in the commit message. 
+
+ 
