@@ -1,0 +1,8 @@
+Lesson 3 Reflections
+
+git remote 
+git remote add origin https://github.com/lynnell/reflections.git
+git remote -v     (the -v is for verbose
+git push origin master
+
+
