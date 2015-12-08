@@ -5,4 +5,14 @@ git remote add origin https://github.com/lynnell/reflections.git
 git remote -v     (the -v is for verbose
 git push origin master
 
+merging branches between local repos and GitHub
+git fetch
+
+
+git pull origin master is the same as the following two commands:
+git fetch origin
+git merge master origin/master
+
+
+
 
